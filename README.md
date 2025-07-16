@@ -1,0 +1,2 @@
+# kocokartu
+pengocok kartu
